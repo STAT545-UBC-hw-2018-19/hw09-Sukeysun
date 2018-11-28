@@ -14,8 +14,6 @@
 
 [Makefile](https://github.com/STAT545-UBC-students/hw09-Sukeysun/blob/master/Makefile)  
 
-[Automating Data-analysis Pipelines.md ](https://github.com/STAT545-UBC-students/hw03-Sukeysun/blob/master/Use_dplyr-ggplot2_to_manipulate_and_explore_data.md)
-
 [r code](https://github.com/STAT545-UBC-students/hw09-Sukeysun/tree/master/r)
 
 [R markdown](https://github.com/STAT545-UBC-students/hw09-Sukeysun/tree/master/rmd)
