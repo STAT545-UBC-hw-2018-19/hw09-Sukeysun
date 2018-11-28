@@ -54,4 +54,10 @@ clean:
 
 ## Visualize the makefile structure
 makefile.png: ./python/makefile2dot.py Makefile
+	mkdir -p ./pictures/
 	python $< <$(word 2, $^) |dot -Tpng > ./pictures/$@
+
+
+	
+README.md: README.rmd 
+	Rscript -e 'rmarkdown::render("$<")'
